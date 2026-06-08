@@ -1,3 +1,5 @@
+## Deployed on Github Pages - https://ivanegorovdev.github.io/ascendra-workspaces/dist
+
 # How to run
 
 ## Prerequisites
